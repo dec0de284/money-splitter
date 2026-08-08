@@ -1,0 +1,11 @@
+{
+    "name": "money_splitter",
+    "short_name": "money_splitter",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Split a capital amount among reusable percentage profiles.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}

@@ -1,3 +1,17 @@
+Repository licensing scope
+
+Except for the exclusions below, original material authored specifically for
+this repository is dedicated under CC0 1.0 Universal using the legal terms
+that follow.
+
+This dedication does not apply to third-party dependencies, Flutter or Dart
+toolchain components, vendored runtime files, or other material for which the
+repository authors do not hold the necessary rights. Those components retain
+their original licenses. Generated files are covered by CC0 only to the extent
+that the repository authors hold rights in their generated content. Compiled
+applications combine this project with third-party components and are not
+offered as a whole under CC0. See THIRD_PARTY_NOTICES.md for details.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
